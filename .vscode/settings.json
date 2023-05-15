@@ -26,6 +26,9 @@
    "editor.defaultFormatter": "HookyQR.beautify",
    "cSpell.words": [
       "allauth",
+      "corecss",
+      "corejs",
+      "postloadjs",
       "Regalé"
    ]
 }
