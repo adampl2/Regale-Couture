@@ -189,7 +189,7 @@
           "name":"Clutch Bag 1",
           "description":"Description of clutch bag 1",
           "price":26.99,
-          "category":5,
+          "category":4,
           "rating":4.7,
           "image_url":"https://images.pexels.com/photos/5822534/pexels-photo-5822534.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "image":"pexels-clutchbag1.jpg"
