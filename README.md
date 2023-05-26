@@ -34,7 +34,7 @@ Developed as part of a milestone project 4 for Code Institute.
 
 * [Shirt pic1](https://www.pexels.com/pl-pl/zdjecie/mezczyzna-w-bialo-niebieskiej-koszuli-plaid-dress-769749/) - Checkered shirt product.
 
-* [Shirt pic2](https://www.pexels.com/pl-pl/zdjecie/moda-mezczyzna-osoba-okulary-sloneczne-9025145/) - Shirt pic product.
+* [Shirt pic2](https://www.pexels.com/pl-pl/zdjecie/shallow-focus-zdjecie-mezczyzny-w-czarnej-koszulce-button-up-3133797/) - Shirt pic product.
 
 * [Shirt pic3](https://www.pexels.com/pl-pl/zdjecie/mezczyzna-osoba-model-styl-5653897/) - White casual shirt product.
 
