@@ -43,8 +43,8 @@
        "pk":7,
        "model":"products.category",
        "fields":{
-          "name":"clutch_bags",
-          "friendly_name":"Clutch Bags"
+          "name":"briefcases",
+          "friendly_name":"Briefcases"
        }
     },
     {
