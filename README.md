@@ -1,3 +1,13 @@
+# Regalé Couture
+
+Developed as part of a milestone project 4 for Code Institute.
+
+  ![Multi-screen]()
+
+[View the deployed website here]()
+
+## Table of contents
+
 ## Credits
 
 ### Code Credits
@@ -32,7 +42,7 @@
 
 * [Bag pic1](https://www.pexels.com/pl-pl/zdjecie/zdjecie-osoby-niosacej-plecak-2452345/) - Small student bag.
 
-* [Clutch bag1](https://www.pexels.com/pl-pl/zdjecie/kobieta-w-brazowym-plaszczu-trzymajac-biala-papierowa-torbe-5822534/) - Clutch bag.
+* [Briefcase1](https://www.pexels.com/pl-pl/zdjecie/biznesmen-mezczyzna-na-stojaco-niosacy-4965149/) - Briefcase1 product.
 
 - - -
 
