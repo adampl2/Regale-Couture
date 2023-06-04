@@ -12,6 +12,8 @@ Developed as part of a milestone project 4 for Code Institute.
 
 ### Code Credits
 
+* [Jigs1212](https://stackoverflow.com/questions/49407059/jquery-scroll-to-top-shows-the-button-without-scrolling-the-page) - Scroll to top button jQuery code.
+
 ### Media Credits
 
 * [Main bg photo](https://www.pexels.com/pl-pl/zdjecie/czlowiek-przy-selfie-432059/) - Main background photo.
