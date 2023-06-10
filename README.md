@@ -90,6 +90,32 @@ Developed as part of a milestone project 4 for Code Institute.
   * Find a specific product I'd like to purchase
   * Quickly decide whether the product I want is available
 
+* As a *Shopper* I want to...
+  * Easily select the size and quantity of a product when purchasing it
+  * View items in my bag to be purchased
+  * Adjust the quantity of individual items in my bag
+  * Easily enter my payment information
+  * Feel my personal and payment information is safe and secure
+  * View an order confirmation after checkout
+  * Receive an email confirmation after checking out
+* So that I can...
+  * Ensure I don't accidentally select the wrong product, quantity, or size
+  * Identify the total cost of my purchase and all items I will receive
+  * Easily make changes to my purchase before checkout
+  * Check out quickly and with no hassles
+  * Confidently provide the needed information to make a purchase
+  * Verify that I haven't made any mistakes
+  * Keep the confirmation of what I've purchased for my records
+
+* As a Site *Owner* I want to...
+  * Add a product
+  * Edit/update a product
+  * Delete a product
+* So that I can...
+  * Add new items to my store
+  * Change product prices, descriptions, images, and other product criteria
+  * Remove items that are no longer for sale.
+
 - - -
 
 ## Design
