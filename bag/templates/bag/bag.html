@@ -50,14 +50,16 @@
                             <p class="my-1"><strong>Subtotal: </strong>${{ item.single_item_total }}</p>
                         </td>
                         <td class="py-3">
-                            <button type="button" class="close delete-button">
-                                <span aria-hidden="true"><svg viewBox="0 0 15 17.5" height="20" width="17"
-                                        xmlns="http://www.w3.org/2000/svg" class="delete-btn-icon">
+                            <a class="remove-item close delete-button" id="remove_{{ item.item_id }}">
+                                <span aria-hidden="true">
+                                    <svg viewBox="0 0 15 17.5" height="20" width="17" xmlns="http://www.w3.org/2000/svg"
+                                        class="delete-btn-icon">
                                         <path transform="translate(-2.5 -1.25)"
                                             d="M15,18.75H5A1.251,1.251,0,0,1,3.75,17.5V5H2.5V3.75h15V5H16.25V17.5A1.251,1.251,0,0,1,15,18.75ZM5,5V17.5H15V5Zm7.5,10H11.25V7.5H12.5V15ZM8.75,15H7.5V7.5H8.75V15ZM12.5,2.5h-5V1.25h5V2.5Z"
                                             id="Fill"></path>
-                                    </svg></span>
-                            </button>
+                                    </svg>
+                                </span>
+                            </a>
                         </td>
                     </tr>
                     {% endfor %}
@@ -103,4 +105,25 @@
         </div>
     </div>
 </div>
+{% endblock %}
+
+{% block postloadjs %}
+{{ block.super }}
+
+<script type="text/javascript">
+
+    // Remove item and reload on click
+    $('.remove-item').click(function(e) {
+        var csrfToken = "{{ csrf_token }}";
+        var itemId = $(this).attr('id').split('remove_')[1];
+        var size = $(this).data('product_size');
+        var url = `/bag/remove/${itemId}/`;
+        var data = {'csrfmiddlewaretoken': csrfToken, 'product_size': size};
+
+        $.post(url, data)
+         .done(function() {
+             location.reload();
+         });
+    })
+</script>
 {% endblock %}
