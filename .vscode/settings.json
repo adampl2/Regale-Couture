@@ -33,5 +33,8 @@
       "postloadjs",
       "Regalé",
       "Wireframes"
-   ]
+   ],
+   "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+   }
 }
