@@ -21,7 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 
+SECRET_KEY = 'django-insecure-1ne76j8$3172wy19i!k9tyi$i##4rkz-m*97$wyrhf!4^0ss47'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -78,7 +78,7 @@ TEMPLATES = [
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
                 'django.template.context_processors.media',
-                'bag.context.bag_contents',
+                'bag.contexts.bag_contents',
             ],
             'builtins': [
                 'crispy_forms.templatetags.crispy_forms_tags',
@@ -176,5 +176,5 @@ FREE_SHIPPING_THRESHOLD = 50
 STANDARD_DELIVERY_PERCENTAGE = 10
 
 STRIPE_CURRENCY = 'gbp'
-STRIPE_PUBLIC_KEY = os.getenv('STRIPE_PUBLIC_KEY', '')
-STRIPE_SECRET_KEY = os.getenv('STRIPE_SECRET_KEY', '')
+STRIPE_PUBLIC_KEY = os.getenv('STRIPE_PUBLIC_KEY', 'pk_test_51NIsHyI8ffhfiJ98HWT12zawkjbOn94ebo5y2Wtz4kAXEi8l8OKgCnv1xg1CIeXhhDSn2KgGUz6fdDmBI7xEUewN004Da0hjWt')
+STRIPE_SECRET_KEY = os.getenv('STRIPE_SECRET_KEY', 'sk_test_51NIsHyI8ffhfiJ98XrJTV6DjokkyQ6iXTIOmiDql2olae7jYIjE9f4LNaV7vYbMHFn7ndPCADSp6jO3cYkABqJS500H685F7T0')
