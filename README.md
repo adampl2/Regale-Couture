@@ -140,7 +140,7 @@ This website has product images present and a background photo.
 
 * **Desktop** - Home
 
-![Desktop-home]()
+![Desktop-home](docs/wireframes-home.jpg)
 
 * **Desktop** - Sign Up
 
