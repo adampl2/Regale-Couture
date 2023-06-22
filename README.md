@@ -33,11 +33,9 @@ Developed as part of a milestone project 4 for Code Institute.
     * [`How to Clone`](#how-to-clone)
 
 * [`Testing`](#testing)
-  * [`Fixed Bugs`](#fixed-bugs)
   
 * [`Credits`](#credits)
   * [`Code Used`](#code-credits)
-  * [`Acknowledgments`](#acknowledgements)
 
 ## User Experience (UX)
 
@@ -238,6 +236,109 @@ The page consists of the base template, home, edit_note, login, sign_up, and 404
 
 - - -
 
+### Accessibility
+
+It was ensured that the website is accessible and as user-friendly as possible. I have achieved this by:
+
+* Using semantic HTML.
+* Following heading hierarchy.
+* Implementing *Tab* friendly navigation for links.
+* Using hover effects on all buttons and links to inform the user they are hovering on a button.
+* Complying with colour contrast guidelines (Aa).
+
+- - -
+
+## Technology
+
+### Languages Used
+
+ HTML, CSS, JavaScript, and Python were used for this project.
+
+### Frameworks & Programs Used
+
+* [Django](https://www.djangoproject.com/) User as a base for development.
+
+* [jQuery](https://jquery.com/) As JavaScript library.
+
+* [Jinja](https://jinja.palletsprojects.com/en/3.1.x/) As template engine.
+
+* [ElephantSQL](https://www.elephantsql.com/) Manage database.
+
+* [Figma](https://www.figma.com/) For wireframes.
+
+* [Git](https://git-scm.com/) As version control.
+
+* [GitHub](https://github.com/) To save and store the files for the website.
+
+* [GitPod](https://gitpod.io) IDE used to create the site.
+
+* [Heroku](https://heroku.com) For deployment.
+
+* [Google Fonts](https://fonts.google.com/) To import the fonts used on the website.
+
+* [Bootstrap](https://getbootstrap.com/) For style.
+
+* [Font Awesome](https://fontawesome.com/) For the iconography on the website.
+
+* [Google Dev Tools](https://developer.chrome.com/docs/devtools/) For troubleshooting, testing features and solving issues with responsiveness and styling.
+
+* [Coolors](https://coolors.co/) To generate colour palette.
+
+* [Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
+
+* [Bulma](https://bulma.io/) Icon.
+
+- - -
+
+## Testing
+
+Please refer to [TESTING.md](TESTING.md) file for full testing procedure.
+
+- - -
+
+## Deployment & Local Development
+
+### Deployment
+
+GitHub Pages was used to deploy the live [adampl12/Regale-Couture](https://github.com/adampl2/Regale-Couture) website. Instructions:
+
+1. Log in (or sign up) to Github.
+2. Find the repository for this project, [adampl12/Regale-Couture](https://github.com/adampl2/Regale-Couture).
+3. Click on the Settings link.
+4. Click on the Pages link in the left-hand side navigation bar.
+5. In the Source section, choose main from the drop-down select branch menu. Select Root from the drop-down select folder menu.
+6. Click Save. Your live Github Pages site is now deployed at the URL shown.
+
+### Local Development
+
+#### How to Fork
+
+Fork the Regale-Couture repository:
+
+1. Log in (or sign up) to Github.
+2. Go to the repository for this project, [adampl12/Regale-Couture](https://github.com/adampl2/Regale-Couture).
+3. Click the Fork button in the top right corner.
+
+#### How to Clone
+
+Clone the Regale-Couture repository:
+
+1. Log in (or sign up) to GitHub.
+2. Go to the repository for this project, [adampl12/Regale-Couture](https://github.com/adampl2/Regale-Couture).
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+
+#### Running the Project
+
+1. Once located in the Regale-Couture repository, click on the green gitpod button located on the right-hand side of the screen.
+2. Once workspace opens, enter `python3 run.py` command in the terminal.
+3. A pop-up window will appear. Click on "Make Public" to expose the server on a public URL.
+4. Open a new browser window and navigate to the URL provided by Gitpod to view the website.
+5. Use the website as intended and ensure that all features are functioning correctly.
+
+- - -
+
 ## Credits
 
 ### Code Credits
@@ -278,9 +379,3 @@ The page consists of the base template, home, edit_note, login, sign_up, and 404
 * [Bag pic1](https://www.pexels.com/pl-pl/zdjecie/zdjecie-osoby-niosacej-plecak-2452345/) - Small student bag.
 
 * [Briefcase1](https://www.pexels.com/pl-pl/zdjecie/biznesmen-mezczyzna-na-stojaco-niosacy-4965149/) - Briefcase1 product.
-
-- - -
-
-## Acknowledgements
-
-* [Rohit Sharma](https://github.com/rohit0286) - My Code Institute mentor.
