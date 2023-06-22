@@ -179,6 +179,7 @@ This website has product images present.
 * [Jigs1212](https://stackoverflow.com/questions/49407059/jquery-scroll-to-top-shows-the-button-without-scrolling-the-page) - Scroll to top button jQuery code.
 * [boryanakrasteva](https://uiverse.io/boryanakrasteva/tidy-falcon-17) - Delete item button.
 * [Cesar Canassa](https://stackoverflow.com/questions/849142/how-to-limit-the-maximum-value-of-a-numeric-field-in-a-django-model) - Fixed rating int out of range bug.
+* [Konrad Wax](https://codepen.io/konradwax/pen/woPNqJ) - Browse button.
 
 ### Media Credits
 
