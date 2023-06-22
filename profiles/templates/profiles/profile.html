@@ -38,10 +38,15 @@
                     <table class="table table-sm table-borderless">
                         <thead>
                             <tr>
+                                {% if orders %}
                                 <th>Number</th>
                                 <th>Date</th>
                                 <th>Items</th>
                                 <th>Total</th>
+                                {% else %}
+                                <th>Your order history will display here</th>
+                                <th><a href="{% url 'products' %}">Place Your First Order</a></th>
+                                {% endif %}
                             </tr>
                         </thead>
                         <tbody>
