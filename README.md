@@ -170,6 +170,72 @@ This website has product images present.
 
 ## Features
 
+The page consists of the base template, home, edit_note, login, sign_up, and 404 pages where all features and content are present & responsive.
+
+### Desktop
+
+* The Navbar:
+
+  ![navbar]()
+
+* The landing page:
+
+  ![Landing page]()
+
+* Add product:
+
+  ![add product]()
+
+* Footer:
+
+  ![footer]()
+
+* Edit product:
+
+  ![edit]()
+
+* Login:
+
+  ![login]()
+
+* Sing Up:
+
+  ![signup]()
+
+### Mobile
+
+* Navbar:
+
+  ![mobile navbar]()
+
+* Add product:
+
+  ![mobile bottom]()
+
+* Edit product:
+
+  ![mobile edit product]()
+
+* Login:
+
+  ![login]()
+
+* Sign Up:
+
+  ![signup]()
+
+### Future Implementations
+
+1. I would integrate voice-activated shopping, allowing customers to browse and purchase products using simple voice commands. This would provide a convenient and hands-free shopping experience, making it easier for customers to find and buy the items they need.
+
+2. sRecognizing the power of social media, I would integrate social commerce features into my e-commerce page. This would allow customers to seamlessly discover and purchase products through popular social media platforms, leveraging user-generated content and social proof to drive sales and expand my brand's reach.
+
+3. Given the growing dominance of mobile devices, I would prioritize enhancing mobile commerce on my e-commerce page. This would involve implementing mobile-friendly features such as one-tap checkout, mobile wallets, and interactive mobile experiences like augmented reality try-on capabilities. By optimizing for mobile, I would ensure a seamless and enjoyable shopping experience for my customers on the go.
+
+4. Chatbot Assistance: I would implement a chatbot feature on my e-commerce page to provide instant customer support and assistance. The chatbot could help customers with common queries, provide product recommendations, and facilitate the purchase process. This would enhance the overall customer experience and improve responsiveness, even outside of regular business hours.
+
+5. Quick View Product Preview: To streamline the browsing experience, I would incorporate a quick view feature that allows customers to preview product details, including images, pricing, and key specifications, without leaving the current page. This would save customers time and effort, enabling them to make faster purchase decisions and navigate through products more efficiently.
+
 - - -
 
 ## Credits
