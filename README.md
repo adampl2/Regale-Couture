@@ -120,21 +120,21 @@ Developed as part of a milestone project 4 for Code Institute.
 
 ### Colour Scheme
 
-* Linen **(#FFF1E5)** is the main color used as a background of the page. Incorporated from the Financial Times website, this font creates a subtle and calming effect on the eyes of the reader, making it easier to read and process the content on the website. Additionally, the use of Linen as a background color provides a clean and sophisticated look to the overall design, which aligns with the Financial Times' brand image.
+* The store follows a black **(#000)** and white **(#FFF)** approach and those are the main colors used throughout the page. Incorporated from the Hugo Boss website, those colors creates a subtle and calming effect on the eyes of the reader, making it easier to read and process the content on the website.
 
-  * ![Colour Palette]()
+  * ![Colour Palette](docs/color-palette.jpg)
 
 ### Typography
 
 Google Fonts was used throughout the whole page:
 
-![main font]()
+![main font](docs/font-lato.jpg)
 
-* **Raleway** font was used because it has a modern and professional look, making it suitable for a note-taking app that aims to provide a clean and polished user interface while ensuring that the text is easily readable. Additionally, it has a wide range of font weights and styles available, making it versatile for various design elements within the app.
+* **Lato** font was used because it has a modern and professional look, making it suitable for an e-commerce application that aims to provide a clean and polished user interface while ensuring that the text is easily readable.
 
 ### imagery
 
-This website has product images present.
+This website has product images present and a background photo.
 
 ### Wireframes
 
