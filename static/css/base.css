@@ -12,6 +12,15 @@ body {
     font-family: 'Lato';
 }
 
+.nav-item:hover {
+    text-decoration: underline;
+}
+
+.dropdown-item:hover {
+    background: #000;
+    color: #fff;
+}
+
 /* from Bulma */
 .icon {
     align-items: center;
