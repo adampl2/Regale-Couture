@@ -29,15 +29,42 @@ body {
     width: fit-content;
 }
 
-.shop-now-button {
-    background: black;
-    color: white;
+.browse-button {
+    background: #303030;
+    color: #fff;
     min-width: 260px;
+    border: #fff solid 2px;
+    border-radius: 16px;
+    position: relative;
+    transition: 0.5s;
+}
+
+.browse-button:hover {
+    color: #fff;
+}
+
+.browse-button:after {
+    content: '»';
+    position: absolute;
+    opacity: 0;
+    top: 14px;
+    right: -20px;
+    transition: 0.5s;
+}
+
+.browse-button:hover {
+    padding-right: 24px;
+    padding-left: 8px;
+}
+
+.browse-button:hover:after {
+    opacity: 1;
+    right: 10px;
 }
 
 .btn-black {
-    background: black;
-    color: white;
+    background: #000;
+    color: #f8f9fa;
 }
 
 .shop-now-button:hover,
