@@ -208,35 +208,35 @@ The page consists of the base template, home, edit_product, add product, login, 
 
 * The Homepage:
 
-  ![homepage]()
+  ![homepage](docs/features/features-mobile-home.jpg)
 
 * The shopping bag:
 
-  ![Bag]()
+  ![Bag](docs/features/features-mobile-bag.jpg)
 
 * Checkout page:
 
-  ![Checkout]()
+  ![Checkout](docs/features/features-mobile-checkout.jpg)
 
 * Products:
 
-  ![products]()
+  ![products](docs/features/features-mobile-products.jpg)
 
 * Product detail:
 
-  ![product detail]()
+  ![product detail](docs/features/features-mobile-product-detail.jpg)
 
 * Profile:
 
-  ![profile]()
+  ![profile](docs/features/features-mobile-profile.jpg)
 
 * Login:
 
-  ![login]()
+  ![login](docs/features/features-mobile-login.jpg)
 
 * Sing Up:
 
-  ![signup]()
+  ![signup](docs/features/features-mobile-signup.jpg)
 
 ### Future Implementations
 
