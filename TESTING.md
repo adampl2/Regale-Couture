@@ -62,3 +62,17 @@ The [W3C validator](https://validator.w3.org/) was used to validate the HTML and
 - - -
 
 ### Python Testing
+
+All Python code is PEP8 complaint, except for some circumstances.
+
+- - -
+
+### Lighthouse
+
+### Desktop
+
+![Desktop](docs/lighthousetest-desktop.jpg)
+
+### Mobile
+
+![Mobile](docs/lighthousetest-mobile.jpg)
