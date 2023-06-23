@@ -172,53 +172,69 @@ The page consists of the base template, home, edit_product, add product, login, 
 
 ### Desktop
 
-* The Navbar:
+* The Homepage:
 
-  ![navbar]()
+  ![homepage](docs/features/features-homepage.jpg)
 
-* The landing page:
+* The shopping bag:
 
-  ![Landing page]()
+  ![Bag](docs/features/features-bag.jpg)
 
-* Add product:
+* Checkout page:
 
-  ![add product]()
+  ![Checkout](docs/features/features-checkout.jpg)
 
-* Footer:
+* Products:
 
-  ![footer]()
+  ![products](docs/features/features-products.jpg)
 
-* Edit product:
+* Product detail:
 
-  ![edit]()
+  ![product detail](docs/features/features-prod-detail.jpg)
+
+* Profile:
+
+  ![profile](docs/features/features-profile.jpg)
+
+* Login:
+
+  ![login](docs/features/features-login.jpg)
+
+* Sing Up:
+
+  ![signup](docs/features/features-signup.jpg)
+
+### Mobile
+
+* The Homepage:
+
+  ![homepage]()
+
+* The shopping bag:
+
+  ![Bag]()
+
+* Checkout page:
+
+  ![Checkout]()
+
+* Products:
+
+  ![products]()
+
+* Product detail:
+
+  ![product detail]()
+
+* Profile:
+
+  ![profile]()
 
 * Login:
 
   ![login]()
 
 * Sing Up:
-
-  ![signup]()
-
-### Mobile
-
-* Navbar:
-
-  ![mobile navbar]()
-
-* Add product:
-
-  ![mobile bottom]()
-
-* Edit product:
-
-  ![mobile edit product]()
-
-* Login:
-
-  ![login]()
-
-* Sign Up:
 
   ![signup]()
 
