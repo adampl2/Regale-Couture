@@ -1,1 +1,1 @@
-web: gunicorn regale-couture.wsgi:application
+web: gunicorn RegaleCouture.wsgi:application
