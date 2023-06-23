@@ -6,8 +6,8 @@
 <head>
 
     {% block meta %}
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     {% endblock %}
 
@@ -76,7 +76,7 @@
                                 <p class="my-0">My Account</p>
                             </div>
                         </a>
-                        <div class="dropdown-menu border-0" aria-labelledby="user-options">
+                        <div class="dropdown-menu border-0" aria-labelledby="user-option">
                             {% if request.user.is_authenticated %}
                             {% if request.user.is_superuser %}
                             <a href="{% url 'add_product' %}" class="dropdown-item">Product Management</a>
@@ -152,7 +152,7 @@
     {% block postloadjs %}
     {{ block.super }}
     <script src="{% static 'js/app.js' %}"></script>
-    <script type="text/javascript">
+    <script>
         $('.toast').toast('show');
     </script>
     {% endblock %}
