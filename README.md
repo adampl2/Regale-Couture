@@ -144,27 +144,27 @@ This website has product images present and a background photo.
 
 * **Desktop** - Sign Up
 
-![Desktop-signup]()
+![Desktop-signup](docs/wireframes-signup.jpg)
 
 * **Desktop** - Login
 
-![Desktop-login]()
+![Desktop-login](docs/wireframes-login.jpg)
 
-* **Mobile** - Home
+* **Desktop** - Products
 
-![Mobile-home]()
+![Desktop-products](docs/wireframes-products.jpg)
 
-* **Mobile** - Edit
+* **Desktop** - Checkout
 
-![Mobile-edit]()
+![Desktop-checkout](docs/wireframes-checkout.jpg)
 
-* **Mobile** - Sign Up
+* **Desktop** - Product Detail
 
-![Mobile-signup]()
+![Desktop-detail](docs/wireframes-productdetail.jpg)
 
-* **Mobile** - Login
+* **Desktop** - Bag
 
-![Mobile-login]()
+![Desktop-bag](docs/wireframes-bag.jpg)
 
 ## Features
 
