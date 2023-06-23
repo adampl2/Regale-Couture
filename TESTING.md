@@ -26,20 +26,37 @@ The [W3C validator](https://validator.w3.org/) was used to validate the HTML and
 
 * HTML Validation
 
-* base.html
-  * ![base.html]()
+* base.html:
 
-* edit_note.html
-  * ![edit_note.html]()
+  ![base.html]()
 
-* home.html
-  * ![home.html]()
+* bag.html:
 
-* login.html
-  * ![login.html]()
+  ![bag.html]()
 
-* sign_up.html
-  * ![sign_up.html]()
+* checkout.html:
+
+  ![checkout.html]()
+
+* products.html:
+
+  ![products.html]()
+
+* product_detail:
+
+  ![product_detail]()
+
+* profile.html:
+
+  ![profile.html]()
+
+* login.html:
+
+  ![login.html]()
+
+* signup.html:
+
+  ![signup.html]()
 
 * CSS Validation
   * ![CSS]()
