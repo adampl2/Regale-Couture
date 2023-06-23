@@ -168,7 +168,7 @@ This website has product images present and a background photo.
 
 ## Features
 
-The page consists of the base template, home, edit_note, login, sign_up, and 404 pages where all features and content are present & responsive.
+The page consists of the base template, home, edit_product, add product, login, sign up, checkout, profile, bag, and allauth templates where all features and content are present & responsive.
 
 ### Desktop
 
@@ -379,3 +379,5 @@ Clone the Regale-Couture repository:
 * [Bag pic1](https://www.pexels.com/pl-pl/zdjecie/zdjecie-osoby-niosacej-plecak-2452345/) - Small student bag.
 
 * [Briefcase1](https://www.pexels.com/pl-pl/zdjecie/biznesmen-mezczyzna-na-stojaco-niosacy-4965149/) - Briefcase1 product.
+
+* [Wireframes](https://www.figma.com/community/file/966016571279781800/Ecommerce-Wireframe-Kit) - For wireframes.
