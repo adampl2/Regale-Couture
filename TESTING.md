@@ -38,3 +38,27 @@ The [W3C validator](https://validator.w3.org/) was used to validate the HTML and
 ### JavaScript Validator
 
 [jshint](https://jshint.com/) was used to validate all JavaScript code on this page.
+
+* script.js Validation
+
+  * [`app.js`](docs/testing-script.js.jpg) - Warnings only relating to ES6 version.
+
+* JavaScript in Bag HTML script tag
+
+  * [`bag.html js`](docs/testing-bag-js.jpg) - ES6 related error.
+
+* stripe_elements.js Validation
+
+  * [`stripe_elements.js`](docs/testing-stripe_elements.js.jpg) - Warnings only relating to ES6 version.
+
+* JavaScript in Product HTML script tag
+
+  * [`edit/add_product.html js`](docs/testing-add-editproduct-js.jpg) - ES6 related error.
+
+* country_fields.js Validation
+
+  * [`country_fields.js`](docs/testing-countryfields.js.jpg) - Warnings only relating to ES6 version.
+
+- - -
+
+### Python Testing
