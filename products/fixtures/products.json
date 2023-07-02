@@ -4,11 +4,11 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5001340155",
-          "name":"Jacket 1",
-          "description":"Description of jacket 1",
-          "price":53.99,
+          "name":"SavileTech Gray Elegance",
+          "description":"Smart and sophisticated suit jacket designed to elevate your style with a touch of modern intelligence. Crafted with precision and tailored to perfection, this sleek gray ensemble combines timeless elegance with cutting-edge technology. From boardroom meetings to evening soirées, the SavileTech Gray Elegance promises to be your trusted companion, empowering you with confidence and grace in every step.",
+          "price":253.99,
           "category":1,
-          "rating":4.6,
+          "rating":4.8,
           "image_url":"https://images.pexels.com/photos/8250140/pexels-photo-8250140.jpeg",
           "image":"pexels-jacket1.jpg"
        }
@@ -18,11 +18,11 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5001600425",
-          "name":"Jacket 2",
-          "description":"description of jacket 2",
-          "price":58.99,
+          "name":"DynamoBlack Runway Suit Jacket",
+          "description":"Black suit jacket meticulously crafted for the world of modeling. This exquisite piece blends sleek sophistication with runway-ready flair, capturing the essence of modern elegance. The DynamoBlack Runway Masterpiece features a tailored silhouette that accentuates your natural grace and presence, while its fine details and luxurious fabric evoke a sense of opulence and refinement.",
+          "price":258.99,
           "category":1,
-          "rating":4.6,
+          "rating":5,
           "image_url":"https://images.pexels.com/photos/16770813/pexels-photo-16770813/free-photo-of-mezczyzna-okulary-sloneczne-na-stojaco-pozowanie.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "image":"pexels-jacket2.jpg"
        }
@@ -32,8 +32,8 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5001730010",
-          "name":"Jacket 3",
-          "description":"description of jacket 3",
+          "name":"UrbanEase Essential",
+          "description":"Versatile gray suit jacket designed specifically for casual business meetings. This jacket effortlessly combines contemporary style with a relaxed yet professional aesthetic, perfect for creating a polished yet approachable look. The UrbanEase Charcoal Essential features a modern slim-fit design and a soft, comfortable fabric, ensuring all-day comfort without compromising on style.",
           "price":205.99,
           "category":1,
           "rating":4.7,
@@ -46,11 +46,11 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5001890157",
-          "name":"Jacket 4",
-          "description":"description of jacket 4",
-          "price":169.99,
+          "name":"Beige Precision Blend",
+          "description":"Smart beige suit jacket crafted to elevate your style in both business meetings and photoshoots. This jacket strikes the perfect balance between professional elegance and fashion-forward sophistication. The ElevateBeige Precision Blend boasts a tailored slim-fit silhouette, accentuating your form with finesse, while its premium beige fabric exudes a refined and timeless charm.",
+          "price":369.99,
           "category":1,
-          "rating":3.0,
+          "rating":4.6,
           "image_url":"https://images.pexels.com/photos/9197291/pexels-photo-9197291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "image":"pexels-jacket4.jpg"
        }
@@ -60,11 +60,11 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5002111605",
-          "name":"Trousers 1",
-          "description":"Description of trousers 1",
-          "price":232.99,
+          "name":"Denim Jeans",
+          "description":"Casual  light-blue jeans designed to effortlessly elevate your casual style. These jeans embrace the relaxed charm of light-blue denim while offering a touch of sophistication and versatility. The Denim Jeans features a comfortable and breathable fabric, allowing you to move with ease while maintaining a stylish appearance. Its modern slim-fit silhouette and carefully crafted details add a refined edge to your casual ensembles.",
+          "price":62.99,
           "category":6,
-          "rating":5.0,
+          "rating":4.1,
           "image_url":"https://images.pexels.com/photos/914472/pexels-photo-914472.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "image":"pexels-trousers1.jpg"
        }
@@ -74,11 +74,11 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5002260206",
-          "name":"Trousers 2",
-          "description":"Description of trousers 2",
-          "price":30.99,
+          "name":"ElegantStride Charcoal Grace",
+          "description":"The 'ElegantStride Charcoal Grace' suit trousers are a refined and sophisticated choice for the discerning gentleman. Designed with meticulous craftsmanship, these trousers feature a rich charcoal hue that effortlessly complements any suit jacket. The tailored fit and premium fabric ensure a comfortable and flattering silhouette, while the attention to detail, such as fine stitching and discreet pockets, adds a touch of elegance.",
+          "price":130.99,
           "category":6,
-          "rating":4.7,
+          "rating":4.8,
           "image_url":"https://images.pexels.com/photos/9102968/pexels-photo-9102968.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "image":"pexels-trousers2.jpg"
        }
@@ -88,11 +88,11 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5002440521",
-          "name":"Trousers 3",
-          "description":"Description of trousers 3",
+          "name":"ModernFlex Navy Precision",
+          "description":" Introducing the 'ModernFlex Navy Precision' suit trousers - a contemporary take on classic style. These trousers combine versatility and comfort, making them perfect for both business and social settings. With a modern slim-fit design and a deep navy shade, they exude a sense of understated refinement. The 'ModernFlex Navy Precision' trousers are crafted from a high-quality fabric that offers flexibility and ease of movement, ensuring you feel comfortable throughout the day.",
           "price":59.0,
           "category":6,
-          "rating":4.4,
+          "rating":3.8,
           "image_url":"https://images.pexels.com/photos/10580211/pexels-photo-10580211.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "image":"pexels-trousers3.jpg"
        }
@@ -102,11 +102,11 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5002601115",
-          "name":"Trousers 4",
-          "description":"Description of trousers 4",
-          "price":36.99,
+          "name":"Luxe Velvet Trousers",
+          "description":"A pair of highly luxurious dark red suit trousers designed to make a statement at grand events such as balls and galas. These trousers exude opulence and refinement, perfect for those seeking a regal and sophisticated look. These trousers feature a deep, rich red hue in a plush velvet fabric, offering a lavish and tactile experience. With their tailored fit and meticulous detailing, including intricate stitching and fine embellishments, these trousers are a true embodiment of luxury.",
+          "price":336.99,
           "category":6,
-          "rating":4.5,
+          "rating":5,
           "image_url":"https://images.pexels.com/photos/11486677/pexels-photo-11486677.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "image":"pexels-trousers4.jpg"
        }
@@ -116,11 +116,11 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5002690715",
-          "name":"Shirt 1",
-          "description":"Description of shirt 1",
-          "price":169.99,
+          "name":"AzureCheck Blue Square Shirt",
+          "description":"a stylish and versatile shirt adorned with blue squares, perfect for adding a touch of pattern and charm to your ensemble. The 'AzureCheck Blue Square Shirt' features a classic button-down design with a crisp collar and a tailored fit, ensuring a polished and sophisticated look.",
+          "price":89.99,
           "category":9,
-          "rating":4.7,
+          "rating":3.7,
           "image_url":"https://images.pexels.com/photos/769749/pexels-photo-769749.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "image":"pexels-shirt1.jpg"
        }
@@ -130,8 +130,8 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5002701115",
-          "name":"Shirt 2",
-          "description":"Description of shirt 2",
+          "name":"Monochrome Classic black Shirt",
+          "description":"A wardrobe essential that embodies effortless style and versatility. With its clean and classic design, this plain black and white shirt exudes timeless elegance. The shirt features a tailored fit, a crisp collar, and high-quality fabric, ensuring a polished and refined look.",
           "price":33.99,
           "category":9,
           "rating":4.4,
@@ -144,11 +144,11 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5002761055",
-          "name":"Shirt 3",
-          "description":"Description of shirt 3",
-          "price":29.99,
+          "name":"Classic White T-shirt",
+          "description":"A wardrobe essential that embodies effortless style and versatility. With its clean and classic design, this plain black and white shirt exudes timeless elegance. The shirt features a tailored fit, a crisp collar, and high-quality fabric, ensuring a polished and refined look.",
+          "price":59.99,
           "category":9,
-          "rating":3.0,
+          "rating":4.0,
           "image_url":"https://images.pexels.com/photos/5653897/pexels-photo-5653897.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "image":"pexels-shirt3.jpg"
        }
@@ -158,11 +158,11 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5002820069",
-          "name":"Shirt 4",
-          "description":"Description of shirt 4",
-          "price":19.99,
+          "name":"Classic White Shirt",
+          "description":"A casual and comfortable white shirt that serves as a blank canvas for your style. With its relaxed silhouette and soft fabric, this shirt is perfect for a casual and effortless look. The white color provides a clean and versatile base, allowing you to mix and match with various outfits",
+          "price":67.99,
           "category":9,
-          "rating":4.6,
+          "rating":4.5,
           "image_url":"https://images.pexels.com/photos/4892782/pexels-photo-4892782.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "image":"pexels-shirt4.jpg"
        }
@@ -172,11 +172,11 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5002820147",
-          "name":"Bag 1",
-          "description":"Description of bag 1",
-          "price":20.0,
+          "name":"Wanderlust Explorer Backpack",
+          "description":"The ultimate travel companion for the modern adventurer. This versatile and functional backpack is designed to cater to your travel needs while keeping style in mind. The 'Wanderlust Explorer Backpack' features a durable and weather-resistant material that can withstand various climates and terrains. With its spacious compartments and smart organization pockets, you can easily store and access your belongings during your journey.",
+          "price":124.99,
           "category":2,
-          "rating":3.2,
+          "rating":4.9,
           "image_url":"https://images.pexels.com/photos/2452345/pexels-photo-2452345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "image":"pexels-bag1.jpg"
        }
@@ -186,11 +186,11 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5002910572",
-          "name":"Briefcase 1",
-          "description":"Description of briefcase 1",
-          "price":26.99,
+          "name":"Classic Briefcase",
+          "description":"A timeless and sophisticated accessory for the modern professional. This sleek and functional briefcase is designed to keep you organized and stylish in your business endeavors. It features a durable leather exterior that exudes elegance and professionalism. With its well-structured compartments and pockets, it offers ample space to securely store your documents, laptop, and other essentials.",
+          "price":226.99,
           "category":7,
-          "rating":4.7,
+          "rating":4.8,
           "image_url":"https://images.pexels.com/photos/4965149/pexels-photo-4965149.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "image":"pexels-briefcase1.jpg"
        }
